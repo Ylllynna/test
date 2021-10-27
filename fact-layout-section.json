@@ -1,0 +1,286 @@
+{
+    "version": "0.4",
+    "title": "Fact Layout Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "623d1b03",
+            "settings": {
+                "content_position": "middle",
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "454f6dbe",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "content_position": "top",
+                        "_inline_size_mobile": 33
+                    },
+                    "elements": [
+                        {
+                            "id": "72d8cec3",
+                            "settings": {
+                                "premium_counter_title": "Employees",
+                                "premium_counter_end_value": 34567,
+                                "premium_counter_t_separator": ",",
+                                "counter_align": "flex-start",
+                                "premium_counter_icon_updated": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "value_align": "flex-start",
+                                "title_align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-52",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "premium_counter_icon_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_value_color": "globals\/colors?id=2dc2654",
+                                    "premium_counter_value_typho_typography": "globals\/typography?id=3aae47a",
+                                    "value_background": "globals\/colors?id=89737fa",
+                                    "premium_counter_suffix_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_prefix_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_title_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_title_typho_typography": "globals\/typography?id=b240728"
+                                },
+                                "premium_counter_icon_color": "#1F4D66",
+                                "premium_counter_title_color": "#1F4D66",
+                                "premium_counter_value_color": "#DEB242",
+                                "premium_counter_value_typho_typography": "custom",
+                                "premium_counter_value_typho_font_family": "Poppins",
+                                "premium_counter_value_typho_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "premium_counter_value_typho_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "premium_counter_value_typho_font_weight": "500",
+                                "premium_counter_value_typho_text_transform": "capitalize",
+                                "premium_counter_value_typho_font_style": "normal",
+                                "premium_counter_value_typho_text_decoration": "none",
+                                "value_background": "#02010100",
+                                "premium_counter_prefix_color": "#1F4D66",
+                                "premium_counter_suffix_color": "#1F4D66"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "105dc453",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "content_position": "top",
+                        "_inline_size_mobile": 33
+                    },
+                    "elements": [
+                        {
+                            "id": "1c79df73",
+                            "settings": {
+                                "premium_counter_title": "Branches",
+                                "premium_counter_end_value": 2500,
+                                "premium_counter_t_separator": ",",
+                                "premium_counter_icon_updated": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "value_align": "flex-start",
+                                "title_align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-52",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "premium_counter_icon_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_value_color": "globals\/colors?id=2dc2654",
+                                    "premium_counter_value_typho_typography": "globals\/typography?id=3aae47a",
+                                    "value_background": "globals\/colors?id=89737fa",
+                                    "premium_counter_suffix_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_prefix_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_title_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_title_typho_typography": "globals\/typography?id=b240728"
+                                },
+                                "premium_counter_icon_color": "#1F4D66",
+                                "premium_counter_title_color": "#1F4D66",
+                                "premium_counter_value_color": "#DEB242",
+                                "premium_counter_value_typho_typography": "custom",
+                                "premium_counter_value_typho_font_family": "Poppins",
+                                "premium_counter_value_typho_font_size": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "premium_counter_value_typho_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "premium_counter_value_typho_font_weight": "500",
+                                "premium_counter_value_typho_text_transform": "capitalize",
+                                "premium_counter_value_typho_font_style": "normal",
+                                "premium_counter_value_typho_text_decoration": "none",
+                                "value_background": "#02010100",
+                                "premium_counter_prefix_color": "#1F4D66",
+                                "premium_counter_suffix_color": "#1F4D66"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "2bc070b9",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "content_position": "top",
+                        "_inline_size_mobile": 33
+                    },
+                    "elements": [
+                        {
+                            "id": "5eb4449c",
+                            "settings": {
+                                "premium_counter_title": "Products",
+                                "premium_counter_end_value": 1000,
+                                "premium_counter_t_separator": ",",
+                                "counter_align": "flex-end",
+                                "premium_counter_icon_updated": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "value_align": "flex-start",
+                                "title_align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-52",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "premium_counter_icon_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_value_color": "globals\/colors?id=2dc2654",
+                                    "premium_counter_value_typho_typography": "globals\/typography?id=3aae47a",
+                                    "value_background": "globals\/colors?id=89737fa",
+                                    "premium_counter_suffix_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_prefix_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_title_color": "globals\/colors?id=1f6cfde",
+                                    "premium_counter_title_typho_typography": "globals\/typography?id=b240728"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                }
+            ],
+            "isInner": true,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "ha_grid_zindex": "1000",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}
